@@ -6,4 +6,4 @@ For this project I used HTML syntax to develop the page, D3 to create eventliste
 
 For the costumization part I added an image to the jumbotron and also changed the color of the letters in order to make them visible in the images. I also made the page mobile-responsive
 
-The page can be seen in this [link](https://jimmy-1310.github.io/Plotly_Develop/)
+The page can be seen in this link: [Github Page](https://jimmy-1310.github.io/Plotly_Develop/)
